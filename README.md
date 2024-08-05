@@ -7,3 +7,5 @@
 - 🧰 I build with: `JavaScript`, `React.js`, `Next.js`, `Bootstrap`, `jQuery`, `MUI`, `Tailwind`, `Prisma`, `MongoDB` , `Supabase`...
 - ⚡ I enjoy photography, reading, playing soccer, and lifting weights :)
 - 📫 Reach out to me: ahmed.ashraf.saad@gmail.com
+
+My latest real-world project: [Zero Tax | Finance Management System](https://zerotaxeg.com/) ( The front-end and back-end development were done solely by me. )
