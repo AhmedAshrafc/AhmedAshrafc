@@ -5,7 +5,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ahmed-ashraf-5399a7151/)
 
 - 🧰 I build with: `JavaScript`, `React.js`, `Vue.js`, `Next.js`, `Nuxt.js`, `Bootstrap`, `jQuery`, `Framer Motion`, `PrimeReact/PrimeVue`, `Tailwind CSS`, `Prisma`, `MongoDB`, `Supabase`...
-- ⚡ I enjoy photography, reading, playing soccer, and lifting weights :)
+- ⚡ I enjoy playing video games, reading, playing soccer, and lifting weights :)
 - 📫 Reach out to me: ahmed.ashraf.saad@gmail.com
 
 My latest real-world project: [Zero Tax | Finance Management System](https://zerotaxeg.com/) ( The front-end and back-end development were done solely by me. )
