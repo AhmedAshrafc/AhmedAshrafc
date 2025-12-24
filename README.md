@@ -6,5 +6,5 @@
 [<img src="https://img.shields.io/badge/Portfolio-006699.svg?style=for-the-badge&logo=vercel&logoColor=white" />](https://ahmed-ashraf-saad.vercel.app/)
 
 - 🧰 I build with: `JavaScript`, `React.js`, `Vue.js`, `Next.js`, `Nuxt.js`, `Bootstrap`, `jQuery`, `Framer Motion`, `PrimeReact/PrimeVue`, `Tailwind CSS`, `Prisma`, `MongoDB`, `Firebase`, `Supabase`, `PostgreSQL`, `PHP - Laravel`, `Nest.js`, `Vercel Storage`...
-- ⚡ I enjoy playing video games, reading, playing soccer, and lifting weights :)
+- ⚡ I enjoy playing video games, playing soccer, and lifting weights :)
 - 📫 Reach out to me: ahmed.ashraf.saad@gmail.com
