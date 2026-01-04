@@ -43,6 +43,7 @@
 ![Vercel Storage](https://img.shields.io/badge/Vercel_Storage-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 <!-- Tools -->
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
