@@ -52,5 +52,5 @@
 
 ---
 
-- ⚡ I enjoy playing video games, playing soccer, and lifting weights :)
+- ⚡ I enjoy playing video games, playing football, and lifting weights :)
 - 📫 Reach out to me: ahmed.ashraf.saad@gmail.com or on my portfolio in the discussion section.
