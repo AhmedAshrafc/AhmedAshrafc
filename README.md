@@ -1,5 +1,5 @@
 ### **Hello everyone!** 👋
-#### I'm a Web Developer located in Alexandria, Egypt
+#### I'm a Full Stack Software Engineer located in Alexandria, Egypt
 
 [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/AhmedAshrafc)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ahmed-ashraf-saad-abdullah/)
@@ -52,5 +52,5 @@
 
 ---
 
-- ⚡ I enjoy playing video games, playing football, and lifting weights :)
+- ⚡ I enjoy playing video games, football, and lifting weights :)
 - 📫 Reach out to me: ahmed.ashraf.saad@gmail.com or on my portfolio in the discussion section.
