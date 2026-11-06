@@ -33,6 +33,9 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
 ![Apollo Client](https://img.shields.io/badge/Apollo_Client-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
+![WhatsApp Business API](https://img.shields.io/badge/WhatsApp_Business_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta_Business_&_Developer-0668E1?style=for-the-badge&logo=meta&logoColor=white)
+![Payment Gateways](https://img.shields.io/badge/Payment_Gateway_Integration-635BFF?style=for-the-badge)
 
 <!-- Databases & ORMs -->
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -44,9 +47,6 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Vercel Storage](https://img.shields.io/badge/Vercel_Storage-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![WhatsApp Business API](https://img.shields.io/badge/WhatsApp_Business_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Meta](https://img.shields.io/badge/Meta_Business_&_Developer-0668E1?style=for-the-badge&logo=meta&logoColor=white)
-![Payment Gateways](https://img.shields.io/badge/Payment_Gateway_Integration-635BFF?style=for-the-badge)
 
 <!-- Deployment / Hosting -->
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
